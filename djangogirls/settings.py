@@ -25,7 +25,7 @@ SECRET_KEY = '&!vvix1b5$uaiwvu2srj_kexa&b_a(u71h(uro3f=ozum))mo5'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'fizzik.pythonanywhere.com']
 
 
 # Application definition
